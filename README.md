@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Dana Benadel 👋
 
-<!--
-**danabenadel/danabenadel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Full-Stack Developer (Software Engineering @ EPITECH Paris)  
+📍 Paris, France  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About
+Full-Stack Developer focused on **clean architecture**, **scalable APIs**, and **modern web applications**.  
+Comfortable across the stack, from backend services to frontend interfaces, with strong DevOps foundations.
+
+🔎 **Looking for a 4–5 month internship starting April 2026**
+
+---
+
+## 🛠 Tech Stack
+**Backend:** Node.js, Express, Laravel  
+**Frontend:** React, Next.js, Vue.js, Nuxt  
+**Databases:** PostgreSQL, MariaDB  
+**DevOps:** Docker, CI/CD (GitHub Actions, GitLab), Linux  
+**Languages:** TypeScript, JavaScript, C++, Python
+
+---
+
+## 📫 Reach me
+🔗 LinkedIn: https://www.linkedin.com/in/hajer-dana-benadel  
+📧 danabenadel45@gmail.com
