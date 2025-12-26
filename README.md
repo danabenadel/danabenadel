@@ -18,7 +18,7 @@ Comfortable across the stack, from backend services to frontend interfaces, with
 **Frontend:** React, Next.js, Vue.js, Nuxt  
 **Databases:** PostgreSQL, MariaDB  
 **DevOps:** Docker, CI/CD (GitHub Actions, GitLab), Linux  
-**Languages:** TypeScript, JavaScript, C++, Python
+**Languages:** TypeScript, JavaScript, C, C++, Python
 
 ---
 
